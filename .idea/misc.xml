@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/exception" />
+    <file type="web" url="file://$PROJECT_DIR$/form" />
+    <file type="web" url="file://$PROJECT_DIR$/form-start" />
+    <file type="web" url="file://$PROJECT_DIR$/login" />
+    <file type="web" url="file://$PROJECT_DIR$/login-start" />
+    <file type="web" url="file://$PROJECT_DIR$/message" />
+    <file type="web" url="file://$PROJECT_DIR$/message-start" />
+    <file type="web" url="file://$PROJECT_DIR$/thymeleaf-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/typeconverter" />
+    <file type="web" url="file://$PROJECT_DIR$/upload" />
+    <file type="web" url="file://$PROJECT_DIR$/validation" />
+    <file type="web" url="file://$PROJECT_DIR$/validation-start" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
